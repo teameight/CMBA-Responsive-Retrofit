@@ -1,0 +1,1 @@
+<?php dynamic_sidebar('Event Sidebar Bot 6 - Text w/o Title'); ?>

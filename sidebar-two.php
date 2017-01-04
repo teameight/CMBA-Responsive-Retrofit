@@ -1,0 +1,1 @@
+<?php dynamic_sidebar('Event Sidebar Two - ad with title'); ?>
